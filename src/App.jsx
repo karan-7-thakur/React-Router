@@ -18,9 +18,9 @@ function App() {
     {
       path: "/about",
       element: <About /> //it will render About component
-    }
+    },
     {
-      path: "/about/:aboutId",
+      path: "/about",
       element: <About /> //it will render About component
     }
   ])
